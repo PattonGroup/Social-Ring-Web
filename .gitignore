@@ -1,2 +1,4 @@
 .vscode
 deprecated
+.vercel
+.DS_Store
